@@ -10,12 +10,13 @@ First clone the repository by copy-pasting this command : (I recommend to clone 
 git clone https://github.com/MountainEnjoyer/.dotfiles.git
 ```
 <br/>
-Then, cd into the directory and Run the #Setup.sh# script.
+Then, cd into the directory and Run the Setup.sh script.
 ```
 cd .dotfiles
+```
+```
 ./setup.sh
 ```
-
 
 ## 👁👁 Some Pictures for your eyes to see:
 ![](https://github.com/MountainEnjoyer/.dotfiles/blob/main/ReadMe/show%20off.png)

@@ -7,6 +7,10 @@ They're made for HyprLand on top of Arch 🙇🏼 (of course). So check the file
 
 First clone the repository by copy-pasting this command : (I recommend to clone it inside your Home directory but it doesn't really matter)
 ```
+cd ~
+```
+
+```
 git clone https://github.com/MountainEnjoyer/.dotfiles.git
 ```
 Then, cd into the directory and Run the Setup.sh script.
